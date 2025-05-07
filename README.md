@@ -1,0 +1,2 @@
+# MTX9250
+Motorola MTX9250 CPS Patch
