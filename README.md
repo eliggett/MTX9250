@@ -2,7 +2,10 @@
 Motorola MTX9250 CPS Patch for 900 MHz Ham Radio usage
 
 # What this does
-This C code patches the CPS exe, typically named `cps_95nt.exe`, to extend the limits of the 900 MHz MTX9250 to cover the 927 MHz Ham Radio band. You can compile the code in a modern linux environment and probably also on windows (untested). 
+This C code patches the CPS exe, typically named `cps_95nt.exe`, to extend the limits of the 900 MHz MTX9250 to cover the 927 MHz Ham Radio band. You can compile the code in a modern linux environment and on windows. 
+
+# Download it compiled already for windows:
+[Releases](https://github.com/eliggett/MTX9250/releases)
 
 # How to compile (Linux)
 ```gcc patcher.c -o patcher```
